@@ -1,0 +1,9 @@
+@media only screen and (max-width: 750px){
+    
+    .galerie-img {
+        width: 100%;
+    }
+    .fotogalerie {
+        margin: 0 auto;
+    }
+}
